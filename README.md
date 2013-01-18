@@ -7,6 +7,7 @@ This is a continuation of http://pgfoundry.org/projects/dbsamples/.
 
 Credits
 -------
-Christopher Kings-Lynne
-Robert Treat
+* Christopher Kings-Lynne
+* Vraj Mohan
+* Robert Treat
 
