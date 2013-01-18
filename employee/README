@@ -1,0 +1,4 @@
+This is a PostgreSQL port of the MySQL Employee Sample Database.
+It is provided in 2 forms:
+- pg_dump format: employees.dump
+- SQL INSERT format: employees.sql (data is in load_*.sql)
